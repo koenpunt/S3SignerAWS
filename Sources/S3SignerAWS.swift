@@ -1,5 +1,5 @@
 import Foundation
-import OpenCrypto
+import Crypto
 
 public class S3SignerAWS  {
     
